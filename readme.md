@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/azure-logo.png" alt="FURIA logo" width="150" /> <br />
+  <img src="./assets/azure-logo.png" alt="Azure logo" width="150" /> <br />
   <b>Microsoft Language Studio Overview</b> <br />
   <sub><sup><b>(language-studio-overview)</b></sup></sub> <br />
 </p>
